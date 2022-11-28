@@ -1,0 +1,62 @@
+
+
+.about__img {
+  background-image: url("../img/about_us.jpg");
+  width: 600px;
+  height: 596px;
+  display: inline-block;
+  margin-right: 80px;
+}
+
+.about__block {
+  display: inline-block;
+  width: 495px;
+}
+
+.about__quote {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  margin-bottom: 49px;
+}
+
+.quote {
+  position: relative;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 50px;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 40px;
+  white-space: pre-wrap;
+}
+
+.quote:before {
+  content: url("../img/q“.svg");
+  position: absolute;
+  left: -26px;
+  top: -27px;
+
+}
+
+.quote:after {
+  content: url("../img/222q“.png");
+  position: absolute;
+  left: 333px;
+  top: 136px;
+}
+
+
+.about__creator {
+  position: relative;
+  padding-left: 170px;
+  font-size: 20px;
+  line-height: 28px;
+  white-space: pre-wrap;
+}
+
+.about__creator:before {
+  position: absolute;
+  content: url("../img/arkadiy.png");
+  right: 282px;
+}

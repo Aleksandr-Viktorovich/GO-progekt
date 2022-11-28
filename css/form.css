@@ -1,0 +1,11 @@
+.form {
+  padding-top: 60px;
+}
+
+.form__title {
+  padding: 10px 17px
+}
+
+.form__input-name {
+  padding-right: 10px;
+}

@@ -1,0 +1,30 @@
+.review__avatar {
+  float: left;
+  margin-right: 20px;
+}
+
+.review__list {
+  padding: 0 100px;
+  height: 330px;
+  margin-bottom: 50px;
+}
+
+.review__name {
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.review__text {
+  padding-top: 52px;
+  white-space: pre-wrap;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  padding-bottom: 180px;
+}
+
+.review__img {
+  padding-bottom: 11px;
+}

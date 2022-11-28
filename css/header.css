@@ -1,0 +1,26 @@
+.header__container{
+  height: 969px;
+  position: relative;
+}
+
+.header__container:after {
+  content: "";
+  position: absolute;
+  background-image: url("../img/vr.png");
+  width: 675px;
+  height: 762px;
+  top: 207px;
+  left: 535px;
+  z-index: 2;
+}
+
+.header__title {
+  font-size: 150px;
+  font-weight: 900;
+}
+
+.header__info {
+  font-size: 28px;
+  line-height: 50px;
+  padding-left: 130px;
+}
