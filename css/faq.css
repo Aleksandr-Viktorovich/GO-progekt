@@ -18,7 +18,7 @@
 }
 
 .faq__list-item:after {
-  content: url(/img/open-purple.svg);
+  content: url(../img/open-purple.svg);
   background-repeat: no-repeat;
   position: absolute;
   right: 50px;
@@ -28,7 +28,7 @@
 }
 
 .faq__list-item:nth-child(2n)::after {
-  content: url(/img/open.svg);
+  content: url(../img/open.svg);
   background-repeat: no-repeat;
   position: absolute;
   right: 50px;
