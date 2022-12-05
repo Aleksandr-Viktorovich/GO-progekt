@@ -1,0 +1,59 @@
+.friends__title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.friends__end {
+  display: block;
+}
+
+.friends__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+}
+
+.friends__vr {
+  background-image: url("../img/vrgl.png");
+  background-repeat: no-repeat;
+  width: 380px;
+  height: 228px;
+}
+
+.friends__audio {
+  background-image: url("../img/audio.png");
+  background-repeat: no-repeat;
+  width: 380px;
+  height: 228px;
+}
+
+.friends__karaoke {
+  background-image: url("../img/karaoke.png");
+  background-repeat: no-repeat;
+  width: 380px;
+  height: 228px;
+}
+
+.friends__game {
+  background-image: url("../img/game.png");
+  background-repeat: no-repeat;
+  width: 380px;
+  height: 228px;
+}
+
+.friends__netflix {
+  background-image: url("../img/netflix.png");
+  background-repeat: no-repeat;
+  width: 380px;
+  height: 228px;
+}
+
+.friends__playstation {
+  background-image: url("../img/playstation.png");
+  background-repeat: no-repeat;
+  width: 380px;
+  height: 228px;
+}
